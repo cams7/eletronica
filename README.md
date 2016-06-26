@@ -25,3 +25,4 @@ Para testa os exemplos
 
 Exemplos de circuitos eletrônicos, cálculos retirados do Youtube através do canal [WR Kits] (https://www.youtube.com/user/canalwrkits) - [Eletrônica Básica ] (https://www.youtube.com/playlist?list=PLZ8dBTV2_5HRu70xFi_P1ZOY9NAwUnZ9o)
 -------------------
+01. [Aula #17] (https://github.com/cams7/exemplos-eletronica/tree/master/Youtube%20-%20WR%20Kits/Aula%20%2317%20-%20M%C3%89TODO%20DE%20AN%C3%81LISE%20DE%20MALHAS) - [MÉTODO DE ANÁLISE DE MALHAS] (https://www.youtube.com/watch?v=WAwZbUlCsz0&list=PLZ8dBTV2_5HRu70xFi_P1ZOY9NAwUnZ9o&index=5)
