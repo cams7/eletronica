@@ -1,0 +1,9 @@
+#Windows file
+Thumbs.db
+
+#Arquivos do WR Kits
+*.rar
+
+#Proteus
+*.workspace
+*.pdsbak
