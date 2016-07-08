@@ -7,3 +7,9 @@ Thumbs.db
 #Proteus
 *.workspace
 *.pdsbak
+
+#LTspiceIV
+*.log
+*.raw
+*.net
+*.plt
